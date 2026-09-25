@@ -48,3 +48,84 @@ While building this project, I practiced:
 
 ```bash
 python main.py
+
+## Sample Output
+
+```text
+====================================
+          STUDENT RESULT
+====================================
+
+Student Name : afthab
+Roll Number  : 43
+
+----------- SUBJECTS ---------------
+DSA   : 98
+       Performance : Excellent
+
+OOP   : 99
+       Performance : Excellent
+
+Maths : 66
+       Performance : Average
+
+----------- OVERALL ----------------
+Total Marks     : 263
+Average         : 87.67
+Grade           : A
+Performance     : Very Good
+Status          : PASS
+
+Highest Subject : OOP
+Highest Marks   : 99
+
+Lowest Subject  : Maths
+Lowest Marks    : 66
+
+----------- SUMMARY ----------------
+Summary: afthab scored an average of 87.67 marks
+and achieved Grade A.
+
+====================================
+```
+
+Then add:
+
+```markdown
+## Project Status
+
+Completed ✅
+
+This project is part of my Python learning journey and is my first completed programming project.
+```
+
+### Your README ending should look like:
+
+```text
+## How to Run
+
+1. Download or clone this repository.
+2. Open the project folder in VS Code.
+3. Open the terminal.
+4. Run:
+
+python main.py
+
+## Sample Output
+
+[Your actual output here]
+
+## Project Status
+
+Completed ✅
+```
+
+Then click **Preview** → check it → **Commit changes**.
+
+Use this commit message:
+
+```text
+Update README with sample output
+```
+
+You're very close to finishing the GitHub setup for **Project 1**. 🚀
